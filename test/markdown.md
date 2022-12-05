@@ -4,26 +4,16 @@ sort: 1
 
 # 오라클 데이터베이스
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
-
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-
-> There should be no margin above this first sentence.
->
-> Blockquotes should be a lighter gray with a gray border along the left side.
->
-> There should be no margin below this final sentence.
+Oracle Database를 이용한 공부
 
 # 오라클 1일차
 
-*** SQL 이란 ?**
+** SQL 이란 ?**
 (database 의 데이터를 검색하거나 조작하는 프로그램 언어)  
  Structure  Query  Language     
    구조적   질의   언어   
 
-*** SQL 의 종류**
+** SQL 의 종류**
 1. Query   --> 데이터 검색 언어 , select 문의 6가지절 
 2. DML 문 --> Data Manipulation Language (데이터 조작 언어) : insert, update, delete, merge
 3. DDL 문  --> Data Definition Language(데이터 정의 언어)  :  create, alter, drop, truncate, rename
